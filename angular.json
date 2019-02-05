@@ -22,9 +22,20 @@
               "src/favicon.ico",
               "src/assets"
             ],
+         
             "styles": [
+              {
+                  "input": "./node_modules/font-awesome/css/font-awesome.css"
+              },
+              {
+                  "input": "./node_modules/primeng/resources/primeng.css"
+              },
+              {
+                  "input": "./node_modules/primeng/resources/themes/darkness/theme.css"
+              },
               "src/styles.css"
-            ],
+            ]
+            ,
             "scripts": [],
             "es5BrowserSupport": true
           },
