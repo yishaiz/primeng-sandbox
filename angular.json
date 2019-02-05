@@ -32,10 +32,8 @@
               },
               {
                   "input": "./node_modules/primeng/resources/themes/darkness/theme.css"
-              },
-              {
-                "input": "./node_modules/primeng/resources/themes/bootstrap/theme.css"
-              },
+              }
+              ,
               "src/styles.css"
             ]
             ,
